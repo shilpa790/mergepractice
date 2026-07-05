@@ -4,6 +4,7 @@ public class Add {
         int b=20;
         int result=a+b;
         System.out.println(result);
+        System.out.println("hello");
     }
     
 }
